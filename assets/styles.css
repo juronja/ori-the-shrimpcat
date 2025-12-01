@@ -1,0 +1,23 @@
+footer {
+    font-size: 0.8rem;
+    color: gray;
+}
+
+.section-gap-top {
+    margin-top: 3rem;
+}
+
+.habits {
+    font-size: 1.2rem
+}
+
+.card {
+    background-color: DimGrey;
+    text-align: center;
+    justify-content: center;
+    padding: 2rem 2rem;
+}
+
+#dark-toggle {
+    list-style-type: none;
+}

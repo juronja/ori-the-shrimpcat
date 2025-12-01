@@ -1,2 +1,3 @@
-# ori-the-shrimpcat
-She likes chicken!
+# This is Ori the Shrimpcat
+
+She is a princess!
