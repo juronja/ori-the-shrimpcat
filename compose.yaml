@@ -1,0 +1,9 @@
+name: ori-shrimpcat # Will be used for network auto naming and image names
+services:
+  app:
+    image: 'juronja/ori-shrimpcat:latest'
+    pull_policy: always
+    container_name: ori-shrimpcat
+    restart: unless-stopped
+    ports:
+      - '8433:80' # These ports are in format <host-port>:<container-port>
